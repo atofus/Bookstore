@@ -1,0 +1,11 @@
+UW Note pad;4.41;6;10.04
+'Java Rules!' button;0.95;10;5.00
+'Java Rules!' bumper sticker;0.99;20;8.95
+Computer science pen;2.00
+3 Ring Binder;9.99
+Effective Java 3rd Ed;18.01
+Core Java Vol I 11th Ed;54.99
+Ipad;349.95
+Surface Pro;399.00
+Chromebook;399.00
+Macbook Pro;1297.99

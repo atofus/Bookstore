@@ -1,0 +1,19 @@
+###############################################################################################
+# Users file.                                                                                 #
+#                                                                                             #
+# User credentialling information is stored in this file.                                     #
+# The password is NOT stored as plain text. It is salted and hashed. Both the Salt and Hash   #
+# are stored in this file.                                                                    #
+# If you are interested in cryptography/security, or just want to know about WHY we are       #
+# storing the password this way, you might find the following links as interesting starting   #
+# points:                                                                                     #
+#    https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/           #
+#    https://en.wikipedia.org/wiki/Salt_(cryptography)                                        #
+#                                                                                             #
+# Line Format                                                                                 #
+# username;salt;hash;campus                                                                   #
+###############################################################################################
+test;-108:27:105:57:-42:126:-48:-42:-95:-85:-54:-54:-22:123:93:-120:;-121:11:11:-34:-9:-72:21:-9:-106:118:107:5:-111:-44:6:-43:;Tacoma
+alan;16:-12:17:33:64:-27:87:-76:56:88:-50:-13:101:4:-110:9:;77:-92:-97:-123:-69:-12:74:106:-65:59:56:-9:-32:28:-82:-14:;Bothell
+alan1;-124:65:-16:-91:-27:103:106:-9:32:29:123:-1:18:0:-38:-118:;35:14:62:0:77:6:-93:-73:87:-28:81:-14:30:34:108:4:;Bothell
+bruh;77:102:-123:-29:-97:-28:-121:-50:22:13:106:3:50:-35:1:-94:;-14:-116:-9:-79:63:-116:-53:-31:25:-16:-11:-97:-49:-30:38:125:;Tacoma
